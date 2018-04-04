@@ -2,6 +2,7 @@
 just another repository
 public class HelloWorld{
   public static void main(String[] args){
-    System.out.println("Hello World !");
+    //我的第一个hello world
+    System.out.println("Hello World !");    
   }
 }
